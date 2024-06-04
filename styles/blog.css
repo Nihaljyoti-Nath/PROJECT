@@ -1,0 +1,51 @@
+.blog{
+  margin-top: 100px;
+  margin-right: 315px;
+}
+
+.blog1{
+  font-family: Roboto , Arial;
+  color: white;
+  font-size: 25px;
+}
+
+.blog2{
+  font-family: Roboto , Arial;
+  color: white;
+  font-size: 18px;
+  opacity: 0.7;
+}
+
+.blog3{
+  font-family: Roboto , Arial;
+  color: white;
+  font-size: 18px;
+  opacity: 0.7;
+}
+
+.blogdiv3{
+  margin-top: 50px;
+}
+.nihal{
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 150px 600px ;
+  column-gap: 40px;
+  row-gap: 44px;        
+}
+
+.blog-info{
+  height: 15px;
+  color: white;
+  opacity: 0.7;
+  font-family: Roboto, Arial;
+  font-size: 18px;
+}
+
+.blog-info2{
+  height: 15px;
+  color: white;
+  opacity: 1;
+  font-family: Roboto, Arial;
+  font-size: 18px;
+}

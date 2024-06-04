@@ -1,0 +1,68 @@
+.parent {
+  border: 1px solid black;
+  padding-left: 315px;
+  padding-top:100px;
+  padding-right: 40px;
+
+}
+.child1 {
+  display: inline-block;
+  border: 2px solid;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  background-color: color(display-p3 0.067 0.067 0.067);
+  border-bottom-color: color(display-p3 0.135 0.135 0.135);
+  border-radius: 10px;
+  height: 160px;
+  width: 500px;
+  margin-right: 40px;
+}
+
+.child2 {
+  display: inline-block;
+  border: 2px solid ;
+  background-color: color(display-p3 0.067 0.067 0.067);
+  border-bottom-color: color(display-p3 0.135 0.135 0.135);
+  border-radius: 10px;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  height: 160px;
+  width: 190px;
+}
+.body{
+  padding-bottom: 400px;
+}
+
+.ig{
+  height: 30px;
+  width: 30px;
+}
+
+.npx{
+  color: white;
+  opacity: 0.6;
+}
+.npx2{
+  color: white;
+  opacity: 0.9;
+}
+
+.subbutton{
+  font-size: 15px;
+  font-family: Roboto , Arial;
+  width: 100px;
+  margin-top: 30px;
+}
+.igbutton{
+  font-size: 15px;
+  font-family: Roboto , Arial;
+  width: 100px;
+}
+
+.igbutton,.subbutton:hover{
+  cursor: pointer;
+}
+
+.rs{
+  height: 20px;
+}

@@ -1,0 +1,78 @@
+.gears{
+  color: white;
+  opacity: 0.9;
+  padding-left: 315px;
+  padding-top: 3%;
+  font-size: 35px;
+  font-family:Roboto, Arial;
+  font-weight: 500;
+}
+
+.stuff{
+  color: white;
+  padding-left:315px;
+  padding-top: 0%;
+  font-family: Roboto, Arial;
+  font-size: 18px;
+  opacity: 0.6;
+}
+.apps{
+  margin-top: 100px;
+  margin-left: 315px;
+  color: white;
+  opacity: 0.7;
+  font-size: 18px;
+}
+
+.geardiv1{
+   margin-top: 30px;
+   display: grid;
+   grid-template-columns: 400px 400px;
+   column-gap: 20px;
+   row-gap: 10px;
+   margin-left: 315px;
+   margin-right: 385px;
+
+}
+
+.gdiv2{
+   height: 124px; 
+   display: flex; 
+   align-items: center;
+   background-color: color(display-p3 0.067 0.067 0.067);
+   border-bottom-color: color(display-p3 0.135 0.135 0.135);
+}
+
+.gpt{
+  height: 40px;
+  width: 40px;
+  margin-top: -80px;
+}
+
+.appname{
+  color: white;
+  margin-left: 20px;
+  margin-top: -65px;
+  font-family: Roboto , Arial;
+  font-size: 20px;
+}
+
+
+
+
+
+.get{
+  margin-left: 200px;
+  margin-top: -85px;
+  width: 90px;
+  font-size: 17px;
+  font-family: Arial;
+}
+
+.get1{
+  margin-left: 175px;
+  margin-top: -85px;
+  width: 90px;
+  font-size: 17px;
+  font-family: Arial;
+}

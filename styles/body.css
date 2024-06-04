@@ -1,0 +1,107 @@
+.body{
+  background-color: black;
+}
+
+.img{
+  display: flex;
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  margin-left: 315px;
+  margin-top: 150px;
+}
+
+.paragraph{
+  color: white;
+  font-size: 43px;
+  font-family: Roboto , Arial;
+  margin-left:315px ;
+}
+
+.paragraph2{
+  font-family:Arial;
+  color: rgb(217, 216, 216);
+  margin-left: 315px;
+  font-size: 17px;
+  margin-top:18px ;
+  opacity: 0.8;
+}
+
+.div2{
+  font-family: Roboto,Arial;
+  color: white;
+  margin-left: 345px;
+  font-size: 17px;
+  margin-top:62px ;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.div4{
+  font-family: Roboto,Arial;
+  color: white;
+  margin-left: 350px;
+  font-size: 17px;
+  margin-top:62px ;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+
+}
+
+.instaimg{
+  height: 32px;
+  width: 32px;
+  margin-top: 68px;
+  margin-left: 320px;
+  cursor: pointer;
+}
+
+.youtubeimg{
+  height: 32px;
+  width: 32px;
+  margin-top: 68px;
+  margin-left: 325px;
+  cursor: pointer;
+}
+
+.maindiv{
+  display: grid;
+  grid-template-columns: 400px 1fr;
+
+}
+
+.maindivv{
+  display: grid;
+  grid-template-columns: 400px 1fr;
+}
+
+
+.maindiv1{
+  display: grid;
+  grid-template-columns: 22px 20px 200px 200px;
+ 
+}
+
+.maindiv2{
+  display: grid;
+  grid-template-columns: 22px 20px;
+}
+
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
+}
+
+a{
+  color: white;
+}
